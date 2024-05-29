@@ -1,6 +1,6 @@
 # Deep Learning Models for Number Recognition on SVHN Dataset
 
-**Collaborators:** [Zuzanna Gielec], [Hubert Wodziak]
+**Collaborators:** [Zuzanna Gielec](https://github.com/ZuzannaGielec), [Hubert Wodziak](https://github.com/Wubert?tab=overview&from=2021-12-01&to=2021-12-31)
 
 This repository contains the code and report for our project on developing and evaluating Deep Learning models for recognizing numbers from images in the SVHN dataset.
 
